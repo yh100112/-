@@ -26,6 +26,10 @@
 + 주문 내역 수정
 + 주문 취소
 
+## 요구사항 분석
+
+https://github.com/yh100112/meat-ordering-system/issues/1#issue-1118447729
+
 ## My Role
 
 + 주제 선정
