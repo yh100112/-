@@ -13,5 +13,9 @@
 + SQL
 + HTML / CSS
 
+## DBMS
+
++ Oracle11g Express Edition
+
 
 
