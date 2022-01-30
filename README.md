@@ -28,7 +28,7 @@
 
 ## 요구사항 분석
 
-https://github.com/yh100112/meat-ordering-system/issues/1#issue-1118447729
+![requirement](https://user-images.githubusercontent.com/73628812/151691330-28b1c8cb-d6cf-491b-90c1-c0c9aa029625.PNG)
 
 ## My Role
 
