@@ -30,6 +30,10 @@
 
 ![requirement](https://user-images.githubusercontent.com/73628812/151691330-28b1c8cb-d6cf-491b-90c1-c0c9aa029625.PNG)
 
+## RDBMS 설계
+
+![e-r diagram](https://user-images.githubusercontent.com/73628812/151691417-2d769956-afd8-4fbe-9196-9311737fe5ba.PNG)
+
 ## My Role
 
 + 주제 선정
